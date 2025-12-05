@@ -224,4 +224,7 @@ Shows Furniture at highest discount with lowest margin
 
 Ariane Achingui Tsafack 
 arianeachingui@gmail.com 
-www.linkedin.com/in/ariane-achingui
+www.linkedin.com/in/
+ariane-achingui-88488a397
+
+
