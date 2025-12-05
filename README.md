@@ -160,36 +160,53 @@ Shows Furniture at highest discount with lowest margin
 
 ## Business Recommendations
 
-### Immediate Actions (High Impact)
+Immediate Actions
+1. Test Reduced Discounting on Furniture
 
-1. **Discontinue Loss-Generating Products**
-   - Remove Cubify 3D printer from catalog
-   - Phase out Tables and Bookcases sub-categories
-   - **Expected Impact:** Eliminate primary loss drivers
+Cap Furniture discounts at 12% maximum (currently 17.39%) for 30-day test period
+Monitor sales volume, revenue, and customer response
+If volume holds (>80%), continue with reduced discounts and restore profitability
+If volume drops significantly (<60%), proceed to phase out low-margin products
+Impact: Data-driven decision on pricing power vs. product-market fit
 
-2. **Implement Discount Governance**
-   - Cap maximum discount at 15% company-wide
-   - Restrict Furniture discounts to 10% maximum
-   - Require approval for discounts >10%
-   - **Expected Impact:** Protect baseline margins
+2. Implement Discount Governance
 
-3. **Address Geographic Inefficiencies**
-   - Implement minimum order thresholds for West Virginia
-   - Review shipping cost structures for underperforming regions
-   - **Expected Impact:** Improve regional profitability
+Set company-wide maximum discount of 15%
+Require approval for Furniture discounts >10%
+Monitor discount patterns by category
+Impact: Prevent future margin erosion across all categories
 
-### Strategic Initiatives (Sustainable Growth)
+3. Optimize Product Mix
 
-4. **Portfolio Optimization**
-   - Reduce Furniture category inventory investment
-   - Shift marketing resources to higher-margin categories (Technology, Office Supplies)
-   - **Expected Impact:** Improve overall product mix economics
+Reduce Furniture inventory investment regardless of discount test results
+Shift marketing focus to higher-margin categories (Technology, Office Supplies)
+Impact: Improve overall portfolio economics
 
-5. **Pricing Strategy Revision**
-   - Test price increases on low-margin products
-   - Develop tiered pricing based on cost-to-serve
-   - **Expected Impact:** Margin expansion without volume sacrifice
+Strategic Initiatives (Based on Test Results)
+4. If Discount Reduction Successful:
 
+Maintain 10-12% discount cap on Furniture
+Keep profitable sub-categories, discontinue only worst performers
+Impact: Restore profitability while maintaining product selection
+
+5. If Market Won't Support Profitable Pricing:
+
+Phase out Tables and Bookcases over 90 days
+Discontinue Cubify 3D printer and other loss-making products
+Clear inventory at controlled discounts
+Impact: Eliminate systematic losses, reallocate resources to profitable categories
+
+6. Address Geographic Inefficiencies
+
+Review West Virginia shipping costs and minimum order thresholds
+Impact: Improve regional profitability
+
+Projected Impact
+Implementing these recommendations could:
+
+Improve profit margins by 3-5 percentage points
+Increase total profit by 25-35% through either restored margins or loss elimination
+Volume may decrease 5-10% if products discontinued, but improved profitability compensates
 
 ### Key Takeaways
 1. Sales growth doesn't always mean profit growth: The business increased total sales year-over-year, but profit margins declined. This taught me that revenue volume alone is misleading—you need to look at profitability per dollar sold.
@@ -219,6 +236,7 @@ Shows Furniture at highest discount with lowest margin
 **Categories:** Furniture, Office Supplies, Technology
 
 ---
+
 
 
 
