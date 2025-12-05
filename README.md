@@ -191,10 +191,10 @@ Impact: Restore profitability while maintaining product selection
 
 5. If Market Won't Support Profitable Pricing:
 
-Phase out Tables and Bookcases over 90 days
-Discontinue Cubify 3D printer and other loss-making products
-Clear inventory at controlled discounts
-Impact: Eliminate systematic losses, reallocate resources to profitable categories
+-Phase out Tables and Bookcases over 90 days
+-Discontinue Cubify 3D printer and other loss-making products
+-Clear inventory at controlled discounts
+-Impact: Eliminate systematic losses, reallocate resources to profitable categories
 
 6. Address Geographic Inefficiencies
 
@@ -236,6 +236,7 @@ Volume may decrease 5-10% if products discontinued, but improved profitability c
 **Categories:** Furniture, Office Supplies, Technology
 
 ---
+
 
 
 
